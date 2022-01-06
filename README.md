@@ -1,4 +1,4 @@
-#Simple Food Inventory REST Api
+# Simple Food Inventory REST Api
 
 ### Add, Remove, Update, Delete Food item from inventory
 
